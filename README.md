@@ -1,5 +1,3 @@
-# How-To
-
 
 Configurar AWS CodeCommit
 ---
